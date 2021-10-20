@@ -4168,7 +4168,6 @@ Main Contact Area Style
 }
 
 .main-contact-area .contact-info .address .location {
-  padding-left: 60px;
   position: relative;
   color: #e6e6e6;
 }
@@ -4191,7 +4190,6 @@ Main Contact Area Style
 }
 
 .main-contact-area .contact-info .address li {
-  padding-left: 60px;
   position: relative;
   margin-bottom: 20px;
 }
