@@ -1429,6 +1429,17 @@ Who We Are Content Area Style
 .who-we-are-img {
   position: relative;
 }
+.whoname {
+  background-color: var(--main-color);
+  color: #fff;
+  font-weight: 700;
+  width: 150px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position: relative;
+  top: -20px;
+}
 
 .who-we-are-img .who-we-are-img-2 {
   position: absolute;
